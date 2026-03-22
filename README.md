@@ -2,6 +2,8 @@
 
 A modern mobile POS system built with React Native, Expo, and Supabase for retail businesses.
 
+**🌐 Repository:** https://github.com/june-arch/pos-mikia-mobile
+
 ## 🏗️ Architecture
 
 **Mobile App (React Native):**
